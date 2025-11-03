@@ -28,7 +28,7 @@ This repository contains my implementation of the robot interaction project in *
    - `/UnrealProject/Lumen/`
    - `/UnrealProject/Lightmass/`
 3. Once the editor loads, click **Play** in the viewport.
-4. The application was designed for full screen use. This can be done by pressing F11.
+4. The application was designed for full screen use. This can be done by pressing "F11".
 5. Controls are included in the project. Simply navigate to the controls section of the UI or pause menu, Press "P" to pause the running demo for options.
 
 > All requirements (camera control, robot interaction, highlighting, attachment, detachment, UI status) are implemented and working.
