@@ -26,7 +26,7 @@ This repository contains my implementation of the robot interaction project in *
 1. Open **Unreal Engine 5.6**.
 2. Open the `.uproject` file inside either:
    - `/UnrealProject/Lumen/`
-   - `/UnrealProject/Lightmass/`
+   - `/UnrealProject/GPUBaked/`
 3. Once the editor loads, click **Play** in the viewport.
 4. The application was designed for full screen use. This can be done by pressing "F11".
 5. Controls are included in the project. Simply navigate to the controls section of the UI or pause menu, Press "P" to pause the running demo for options.
