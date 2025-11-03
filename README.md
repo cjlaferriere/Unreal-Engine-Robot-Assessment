@@ -8,9 +8,9 @@ This repository contains my implementation of the robot interaction project in *
 
 /UnrealProject
 
-├── /ForgeFXDemoGPUBaked → Unreal Engine project using Lumen lighting
+├── /ForgeFXDemoGPUBaked → Unreal Engine project using GPU Lightmass
 
-├── /ForgeFXDemoLumen → Unreal Engine project using GPU Lightmass
+├── /ForgeFXDemoLumen → Unreal Engine project using Lumen lighting
 
 │
 /UnityTest
