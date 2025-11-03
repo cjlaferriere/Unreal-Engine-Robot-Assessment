@@ -7,11 +7,16 @@ This repository contains my implementation of the robot interaction project in *
 # Repository Structure
 
 /UnrealProject
+
 ├── /ForgeFXDemoGPUBaked → Unreal Engine project using Lumen lighting
+
 ├── /ForgeFXDemoLumen → Unreal Engine project using GPU Lightmass
+
 │
 /UnityTest
+
 ├── RobotArm.cs → Main robot arm class
+
 ├── RobotArmTests.cs → Unit test script using Unity Test Framework
 
 ---
