@@ -1,0 +1,65 @@
+# ========== Unreal Engine ==========
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sdf
+*.log
+*.pdb
+*.obj
+*.exe
+*.app
+*.dll
+*.pyc
+*.class
+
+# Ignore built lighting data
+*_BuiltData.uasset
+
+# Ignore crash reports
+CrashReportClient/
+
+# ========== Unity ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+# Ignore auto-generated Visual Studio/JetBrains files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore Unity-generated metadata and logs
+*.bak
+*.log
+*.vs
+*.meta
+*.DS_Store
+*.apk
+*.unitypackage
+
+# ========== OS Specific ==========
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
